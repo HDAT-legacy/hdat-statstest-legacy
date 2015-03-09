@@ -1,3 +1,5 @@
+Check https://github.com/HDAT/hdat-statstest/blob/master/examples/test.html voor wat probeersels
+
 [![Build Status][travis-badge]][travis-badge-url] [![Code Climate][code-climate-badge]][code-climate-url]
 
 <a href="http://metricsgraphicsjs.org/"><img src="http://metricsgraphicsjs.org/images/logo.svg" hspace="0" vspace="0" width="400" height="63"></a>
